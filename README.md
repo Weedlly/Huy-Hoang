@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Huy Hoang</h1>
-- 🌱 I’m currently learning **Kotlin and Android**
-
-- 🎻 I like **gym and listen to music**
+- 🌱 I’m currently learning **C#**
 
 - ⚡ Playing game **is my hobby**
 
