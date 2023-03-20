@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Huy Hoang</h1>
-- 🌱 I’m currently learning **C#**
-
-- ⚡ Playing game **is my hobby**
-
-- 📫 How to reach me: **phamhuyhoang3004@gmail.com**
+- Trying to divide smaller and smaller pieces.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
