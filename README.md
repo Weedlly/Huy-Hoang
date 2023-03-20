@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Huy Hoang</h1>
+
 - Trying to divide smaller and smaller pieces.
 
 <h3 align="left">Connect with me:</h3>
